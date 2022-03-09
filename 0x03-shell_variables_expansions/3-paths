@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | tr ':' '\' | wc -1[D[D[D[D[D[D[D[D[Dn' | wc -1
+echo $PATH | tr -s ':' '\n' | wc -1
