@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr '' '\n' | grep -v "oo"
+echo {a..z}{a..z} | tr '' '\n' | grep -v "oo"[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C""[D " "\n" | grep -v "oo"
